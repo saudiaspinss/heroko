@@ -1,14 +1,19 @@
 <!DOCTYPE HTML>
 <html lang="en">
 	<head>
-		<title>Spin a wheel once-off to win Iphone11 online for free and enjoy the benefits, no strings attache</title>
+		<title>subscribe by phone number to win one of two gifts. a iPhone 13 or a bank check. enjoy the benefits, no strings attache
+</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
-		<meta name="description" content="Spin a wheel once-off to win Iphone11 online for free and enjoy the benefits, no strings attache" />
-		<meta property="og:site_name" content="Spin a wheel once-off to win Iphone11 online for free and enjoy the benefits, no strings attache" />
-		<meta property="og:title" content="Spin a wheel once-off to win Iphone11 online for free and enjoy the benefits, no strings attache" />
+		<meta name="description" content="subscribe by phone number to win one of two gifts. a iPhone 13 or a bank check. enjoy the benefits, no strings attache
+" />
+		<meta property="og:site_name" content="subscribe by phone number to win one of two gifts. a iPhone 13 or a bank check. enjoy the benefits, no strings attache
+" />
+		<meta property="og:title" content="subscribe by phone number to win one of two gifts. a iPhone 13 or a bank check. enjoy the benefits, no strings attache
+" />
 		<meta property="og:type" content="website" />
-		<meta property="og:description" content="Spin a wheel once-off to win Iphone11 online for free and enjoy the benefits, no strings attache" />
+		<meta property="og:description" content="subscribe by phone number to win one of two gifts. a iPhone 13 or a bank check. enjoy the benefits, no strings attache
+" />
 		<link href="https://fonts.googleapis.com/css?display=swap&family=Akshar:700,700italic" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" href="assets/main.css" />
 		<noscript><link rel="stylesheet" href="assets/noscript.css" /></noscript>
